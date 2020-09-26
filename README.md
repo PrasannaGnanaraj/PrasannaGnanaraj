@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prasanna Gnanaraj</h1>
 <h3 align="center">Software Developer & Technology Lead based in London</h3>
 
-- 🌱 I’m currently learning **Clojure**
+- 🌱 I’m currently learning **Clojure** and **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrasannaGnanaraj](https://github.com/PrasannaGnanaraj)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **javascript, web development**
 
 - 📫 How to reach me **gnanaprasannag@gmail.com**
 
